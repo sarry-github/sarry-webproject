@@ -1,0 +1,179 @@
+/**nav icon css file **/
+
+/**div {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+
+
+**/
+
+  /** About Page **/
+
+/**Body structure and padding**/
+blockquote{
+  padding: 10px;
+  background-color: rgb(250, 236, 236);
+}
+
+/** Nav-bar stylesh sheet **/
+.nav-bar {
+  width: 100%;
+  height: 40px;
+  background-color: rgb(105, 172, 235);
+  padding-top: 10px;
+}
+.nav-bar a{
+  list-style-type: none;
+  text-decoration: none;
+  padding: 10px;
+  text-align: center;
+  padding-right: 30px;
+  color: white;
+}
+
+.nav-bar a:hover{
+  padding:10px;
+  padding-right: 30px;
+  forced-color-adjust: blue;
+  background-color: hsl(118, 88%, 49%);
+  color: white;
+}
+
+/**This is card section**/
+.first-row{
+  background-color: aquamarine;
+  float: left;
+  margin-top: 10px;
+  
+}
+
+
+
+/**
+THis is Home Page First Row Css S
+**/
+.first-row-first-column {
+  background-color: rgb(247, 225, 196);
+  padding: 10px;
+  height: 400px;
+  text-align: center;
+  text-decoration-line: initial;
+}
+.card img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  
+}
+
+.iframe .i{
+  width: 30px;
+  height: 30px;
+}
+
+
+.first-row-second-column {
+  background-color: rgb(199, 121, 18);
+  padding: 10px;
+  height: 400px;
+  overflow-anchor: auto;
+}
+
+
+
+.fis{
+  background-color: rgb(114, 119, 117);
+  margin-top: 5px;
+  padding: 10px;
+}
+
+
+/**
+<!--this is -->
+THis is Contact page start
+
+**/
+
+
+/**Footer css start point**/
+
+.footer-page{
+  height: 200px;
+  width: auto;
+  background-color: rgb(220, 213, 228);
+  margin-bottom: 10px;
+
+}
+
+
+
+.first-footer{
+  background-color: rgb(205, 207, 207);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  height: 200px;
+
+}
+.first-footer a{
+  text-decoration: none;
+  text-decoration-color: azure;
+  font-style: italic;
+
+}
+
+.second-footer{
+  background-color: rgb(205, 207, 207);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  height: 200px;
+  text-align: center;
+
+}
+
+.third-footer{
+  background-color: rgb(205, 207, 207);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  height: 200px;
+  text-align: center;
+
+}
+
+.right{
+  border-color: black;
+  border-radius: 20px;
+}
+
+/**Footer of Copy Right details with Developers details**/
+
+.First-foooter{
+  background-color: rgb(148, 138, 138);
+}
+
+
+/**Footer of Copy Right details with Developers details**/
+.devlopers-details{
+  display: grid;
+  overflow: hidden;
+  text-decoration-color: white;
+  background-color: darkslategrey;
+}
+.devlopers-details{
+  text-align: center;
+}
+
+.developers{
+  text-align: right;
+  text-decoration-color: whitesmoke;
+}
+.developers p{
+  text-decoration-color: whitesmoke;
+}
+
+/** **/
